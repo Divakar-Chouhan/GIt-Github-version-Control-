@@ -1,1 +1,7 @@
-hello everyone
+It will contain all the steps to create/add the local repository to the remote repository on github
+
+1.First create a new repository on github
+
+3. then do the command "git remote add origin link to the repository on github"
+
+2. Now to add your local repository to remote repo. we can use the command "git push -u origin main". here instead of main master can also be present whatever will be your main branch's name that comes here
