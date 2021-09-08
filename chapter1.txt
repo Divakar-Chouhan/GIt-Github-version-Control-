@@ -5,3 +5,15 @@ steps:
 2. i made a .txt file called chapter1 which contains all the steps to add that file to git
  
 3. Now initialize git in that direectory using command: "git init"
+
+4. this initialization will create a .git file which will be hiden to see it u can use command "ls -a"
+
+5.Now we have to add the specific files to staging area and we can do that using the command "git add filename". Doing this it will add the specified file in staging area(add the files only to which u want to add on your repository)
+
+6.to add multiple files to staging are we can use command "git add ." this will add all the files present in directory which are not present in repository to the staging area.
+
+7. Now to check the status use "git status"
+
+8. after that commit the files by command "git commit -m (description of the commit,its always in present tense) ".
+
+9. after that all your files will be commited
