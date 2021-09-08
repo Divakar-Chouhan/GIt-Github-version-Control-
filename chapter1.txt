@@ -17,3 +17,6 @@ steps:
 8. after that commit the files by command "git commit -m (description of the commit,its always in present tense) ".
 
 9. after that all your files will be commited
+
+10. By all these steps we create a local repository inside our directory so whenever we make any changes in any of the file prsent in the local repository and wanted to revert back to file without changes we can use command "git checkout filename". To see chages in your modified file and previous file i can use command "git diff filename".
+
