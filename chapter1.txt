@@ -1,3 +1,4 @@
+It contains all the steps to create a local repository and their commands
 steps:
 
 1. i made a directory called git
