@@ -22,3 +22,5 @@ steps:
 10. By all these steps we create a local repository inside our directory so whenever we make any changes in any of the file prsent in the local repository and wanted to revert back to file without changes we can use command "git checkout filename". To see chages in your modified file and previous file i can use command "git diff filename".
 
 11. To exit press "q"
+
+12. To open any file use command "start filename.extension"
