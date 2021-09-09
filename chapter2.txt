@@ -2,10 +2,18 @@ It will contain all the steps to create/add the local repository to the remote r
 
 1.First create a new repository on github
 
+2. then do the command "git branch -M branchname".
+
 3. then do the command "git remote add origin link to the repository on github"
 
-2. Now to add your local repository to remote repo. we can use the command "git push -u origin main". here instead of main master can also be present whatever will be your main branch's name that comes here
+4. Now to add your local repository to remote repo. we can use the command "git push -u origin main". here instead of main master can also be present whatever will be your main branch's name that comes here
 
+5. To see all your remote origin use command " git remote -v".
+
+6. Now to delete your remote origins etc use command "git remote rm origin"
+
+7.Command to get out of vim if u accidently enter it the type":q! and press enter"
+ 
 
 GIT IGNORE:
 
