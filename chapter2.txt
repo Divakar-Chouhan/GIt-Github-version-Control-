@@ -5,3 +5,16 @@ It will contain all the steps to create/add the local repository to the remote r
 3. then do the command "git remote add origin link to the repository on github"
 
 2. Now to add your local repository to remote repo. we can use the command "git push -u origin main". here instead of main master can also be present whatever will be your main branch's name that comes here
+
+
+GIT IGNORE:
+
+It is used to prevent your secret files like api keys , passwords and some data that u dont want to be public and used by others to commit on remote repository, for this we can create a .gitignore file which will contain all the secret file names.
+
+steps to create the .gitignore file
+1. first create the file using command "touch .gitignore"
+2. Now open the file usingg command "start .gitignore"
+3. after opening write all the different file names that u dont want to be commited on remote
+4. Now commmit it on your local repository and then i can commit on my remote repository
+
+To come back out after git .add for removing the files from staging process use the command "git rm --cached -r ."
