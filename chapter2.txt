@@ -26,3 +26,8 @@ steps to create the .gitignore file
 4. Now commmit it on your local repository and then i can commit on my remote repository
 
 To come back out after git .add for removing the files from staging process use the command "git rm --cached -r ."
+
+
+CLONING:
+To clone a repository from git use command line "git clone link of repo"
+that repository files will be cloned to your device
