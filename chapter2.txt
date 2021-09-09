@@ -31,3 +31,14 @@ To come back out after git .add for removing the files from staging process use 
 CLONING:
 To clone a repository from git use command line "git clone link of repo"
 that repository files will be cloned to your device
+
+CREATING BRANCHES AND MERGING:
+
+1.to create a branch use command "git branch branch name"
+
+2.to check all your branches use command "git branch"
+
+3.to switch to other branch use command " git checkout branch name where u want to switch"
+
+4.to merge the branch to master branch go to master branch and then command "git merge branch name to be merged"
+
